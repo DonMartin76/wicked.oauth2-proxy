@@ -27,6 +27,11 @@
     "cookie": "0.3.1",
     "express": "4.14.0",
     "http-proxy": "1.16.2",
-    "redis": "2.6.5"
+    "redis": "2.6.5",
+    "request": "2.80.0"
+  },
+  "jshintConfig": {
+    "node": true,
+    "esversion": 6
   }
 }
